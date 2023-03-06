@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using static Library;
+int number = getNumber("Введите число: ");
+Console.WriteLine(getSum(number));
