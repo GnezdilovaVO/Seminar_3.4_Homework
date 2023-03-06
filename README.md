@@ -11,3 +11,17 @@
 [Блок-схема](Homework_001/diagram.drawio.png)
 
 [КОД](Homework_001/Program.cs)
+
+-Homework_002
+
+#### Напишите программу, которая принимает на вход число и выдаёт сумму цифр в числе.
+
+452 -> 11
+
+82 -> 10
+
+9012 -> 12
+
+[Блок-схема](Homework_002/diagram.drawio.png)
+
+[КОД](Homework_002/Program.cs)
